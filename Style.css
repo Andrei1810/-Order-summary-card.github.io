@@ -41,7 +41,7 @@ table {
 
 /*Start*/
 body{
-	background-image: url("pattern-background-mobile.svg");
+	background-image: url("pattern-background-desktop.svg");
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-color:hsl(225, 100%, 94%);
@@ -130,7 +130,7 @@ a:hover,.payment:hover,.cancel:hover{
 @media only screen and (max-width: 376px){
   
   body{
-	background-image: url("pattern-background-desktop.svg");
+	background-image: url("pattern-background-mobile.svg");
   }
   .container,.img1{
   		width:320px;
